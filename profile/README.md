@@ -10,12 +10,12 @@ Ultimately, the goal of this organization is to be a perfect place for people th
 
 # Organization
 
-- The group should dedicate at least **4 hours** per week to projects
-- The projects should run via pair programming sessions with at least 2 developers
+- The group usually dedicates at least **4 hours** per week to projects
+- The projects run via pair programming sessions with at least 2 developers
 - During sessions, it is recommended that all developers try to drive, i.e., write some code
 - It is not mandatory to record each session, although it would be nice for remembering the thought process and measuring the progress of the organization over time
-- The group should always have at least 2 projects on the fly, to add diversity
-- Developer can propose/vote for projects using his personal metrics
+- The group currently establishes to have at least 2 projects on the fly, to add diversity
+- Developers can propose/vote for projects using their personal metrics
 - Nekoma's participants can share the group's content (twitch streams, youtube videos)
 - In case a sub-group of people want to start a project but do not want/can use the scheduled time, they can work on their own time
 

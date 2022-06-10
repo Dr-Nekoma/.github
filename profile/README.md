@@ -26,6 +26,7 @@ Dr.Nekoma was created for people that identify themselves with the above purpose
 The name for the organization came from anime/manga culture. We wanted something that resembles the idea of getting comfortable with multiple languages and abstractions. For that, we decided to use the Nekoma brand, one of the schools in the Haikyuu show. They are known for their flexibility, i.e., you can throw anything at them and they will handle it. We wanted to absorb this principle as developers as well.
 
 The second source of inspiration came from Dr.Stone. This show demonstrates, with a variety of metaphors and tear-worthy moments, that knowledge is one of the best tools humanity has at its disposal. We not only agree with that, but we want to pursue learning and knowledge as a fundamental principle in our lives as programmers.
+
 We value flexibility and knowledge. We want to make Kenma and Senku proud. This is Dr.Nekoma.
 
 # Midia

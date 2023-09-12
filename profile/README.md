@@ -10,15 +10,23 @@ Ultimately, the goal of this organization is to be a perfect place for people th
 
 # Organization
 
-- The group usually dedicates at least **4 hours** per week to projects
-- The projects run via pair programming sessions with at least 2 developers
-- During sessions, it is recommended that all developers try to drive, i.e., write some code
-- It is not mandatory to record each session, although it would be nice for remembering the thought process and measuring the progress of the organization over time
+- Nekoma's participants can share the group's content (twitch streams, youtube videos)
+  
+## Synchronous
+
+- The group usually dedicates at least **4 hours** per week to synchronous projects
+- Synchronous projects run via pair programming sessions with at least 2 developers
+- During recorded sessions, it is recommended that all developers try to drive, i.e., write some code
+- It is not strictly speaking 100% mandatory to record each session, although it would be nice for remembering the thought process and measuring the progress of the organization over time
 - The group currently establishes to have at least 2 projects on the fly, to add diversity
 - Developers can propose/vote for projects using their personal metrics
-- Nekoma's participants can share the group's content (twitch streams, youtube videos)
-- In case a sub-group of people want to start a project but do not want/can use the scheduled time, they can work on their own time
+  
+## Asynchronous
 
+- An owner of a project can have a project under DrN if she/he sees value in sharing it in order to invite more people to participate in the project.
+- The owner will give the project personal attention. This is not requiring a frequency on commits or PRs, this is only talking about the project not being a dead repo with the owner literally saying explicitly "who cares about that? I don't". If the project has somebody that cares, it will live.
+- Asynchronous projects do not have enforcement in terms of communication between members and the act of documenting the process (videos and streams under DrN). It is up to the owner and other devs to pick something for communication and decide if and how they will document the process.
+  
 # Origin
 
 Dr.Nekoma was created for people that identify themselves with the above purpose but lack the discipline in putting these ideas onto practice. By participating in a group, we are creating extra responsibility to force us to manage time-consuming but necessary activities, such as getting on board in interesting projects.
